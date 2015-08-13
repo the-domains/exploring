@@ -21,9 +21,9 @@ color:
     - '#cfcfcf'
     - '#000000'
   brandStrength: 1
-  lightness: 0.5
+  lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose:
   - name: engagement
     item: null
