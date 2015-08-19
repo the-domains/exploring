@@ -1,22 +1,22 @@
 ---
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Afternoon on a park bench
 title: 'Disappearing '
-dateModified: '2015-08-19T21:29:09.302Z'
+dateModified: '2015-08-19T21:53:25.978Z'
 tags:
   - ''
+datePublished: '2015-08-19T21:29:09.302Z'
+sourcePath: _posts/2015-08-19-disappearing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-08-19T21:29:09.302Z'
-sourcePath: _posts/2015-08-19-disappearing.md
-published: true
 url: disappearing/index.html
 _type: Article
 
