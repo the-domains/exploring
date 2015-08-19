@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Exploring]]></title>
         <description><![CDATA[Exploring]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exploring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Aug 2015 21:26:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 19 Aug 2015 21:29:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exploring/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Disappearing ]]></title>
+            <description><![CDATA[<article><h1>Disappearing </h1><p>Afternoon on a park bench</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/196c8e56-b1a3-4015-88a6-5341026af7b3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/exploring/disappearing/index.html</link>
+            <guid isPermaLink="false">a2b71f00-6a95-4e98-a68f-70e73393a27e</guid>
+            <pubDate>Wed, 19 Aug 2015 21:29:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc4a0df-f041-4cce-9f8b-ad9097eae083.jpg">]]></description>
-            <link>undefined9c2c1b71-2abf-4df4-8374-52c022b2561a/index.html</link>
+            <link>https://thegrid.ai/exploring/9c2c1b71-2abf-4df4-8374-52c022b2561a/index.html</link>
             <guid isPermaLink="false">9c2c1b71-2abf-4df4-8374-52c022b2561a</guid>
             <pubDate>Wed, 19 Aug 2015 21:26:23 GMT</pubDate>
         </item>
