@@ -5,8 +5,15 @@
         <description><![CDATA[Exploring]]></description>
         <link>https://thegrid.ai/exploring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 24 Aug 2015 23:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2015 23:08:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exploring/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thoughts]]></title>
+            <description><![CDATA[<article><h1>Thoughts</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ea09d63-973a-460a-8a45-aac6689b1372.jpg"></article>]]></description>
+            <link>https://thegrid.ai/exploring/thoughts/index.html</link>
+            <guid isPermaLink="false">15238409-d358-46e6-ba35-536b66abd242</guid>
+            <pubDate>Mon, 24 Aug 2015 23:08:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Night Night]]></title>
             <description><![CDATA[<article><h1>Night Night</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e386f55-6a26-4f13-a70d-29319572048b.jpg"></article>]]></description>
