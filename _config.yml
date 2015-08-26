@@ -1,6 +1,5 @@
 name: Exploring
 favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.73875
 cta:
   domain: null
@@ -27,5 +26,5 @@ color:
   rhythmicContrast: 0
 purpose:
   - name: engagement
-    item: null
+    item: a2b71f00-6a95-4e98-a68f-70e73393a27e
     url: 'http://mrmrs.cc'
