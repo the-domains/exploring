@@ -1,6 +1,7 @@
 name: Exploring
 favicon: null
-typography_spectrum: 0.73875
+layout_spectrum: 0
+typography_spectrum: 0.98
 cta:
   domain: null
   bucket: null
@@ -20,10 +21,10 @@ color:
     - '#636363'
     - '#cfcfcf'
     - '#000000'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose:
   - name: engagement
     item: a2b71f00-6a95-4e98-a68f-70e73393a27e
