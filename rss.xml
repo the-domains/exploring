@@ -5,8 +5,15 @@
         <description><![CDATA[Exploring]]></description>
         <link>https://thegrid.ai/exploring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 28 Aug 2015 09:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2015 09:20:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exploring/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Francisco Bridges]]></title>
+            <description><![CDATA[<article><h1>San Francisco Bridges</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8872021-e022-4f07-94ae-e9c1ffc71a9e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/exploring/f7d9dc7d-1a34-4db8-bb57-60c73ca92bdb/index.html</link>
+            <guid isPermaLink="false">f7d9dc7d-1a34-4db8-bb57-60c73ca92bdb</guid>
+            <pubDate>Fri, 28 Aug 2015 09:19:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cement houses]]></title>
             <description><![CDATA[<article><h1>cement houses</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc4a0df-f041-4cce-9f8b-ad9097eae083.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/exploring/what-is-css-for/index.html</link>
             <guid isPermaLink="false">63ed42a3-e3d5-4db6-9956-8791c57b33dd</guid>
             <pubDate>Mon, 24 Aug 2015 22:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disappearing ]]></title>
-            <description><![CDATA[<article><h1>Disappearing </h1><p>Afternoon on a park bench</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/196c8e56-b1a3-4015-88a6-5341026af7b3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/exploring/disappearing/index.html</link>
-            <guid isPermaLink="false">a2b71f00-6a95-4e98-a68f-70e73393a27e</guid>
-            <pubDate>Wed, 19 Aug 2015 21:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
