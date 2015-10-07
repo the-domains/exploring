@@ -8,8 +8,8 @@ author: []
 related: []
 app_links: []
 title: Pesticide
-datePublished: '2015-10-07T15:48:54.342Z'
-dateModified: '2015-10-07T15:48:40.244Z'
+datePublished: '2015-10-07T15:49:14.497Z'
+dateModified: '2015-10-07T15:49:02.404Z'
 sourcePath: _posts/2015-09-16-pesticide-kill-your-css-layout-bugs.md
 published: true
 tags:
@@ -20,7 +20,8 @@ publisher:
   domain: pesticide.io
   url: 'http://pesticide.io'
   favicon: null
-_type: MediaObject
+url: pesticide/index.html
+_type: WebPage
 _context: 'http://schema.org'
 
 ---
