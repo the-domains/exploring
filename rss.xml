@@ -5,8 +5,15 @@
         <description><![CDATA[Exploring]]></description>
         <link>https://thegrid.ai/exploring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 28 Aug 2015 09:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2015 15:20:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exploring/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hoi An]]></title>
+            <description><![CDATA[<article><h1>Hoi An</h1><p>When a whole city is lit up by nothing but candles and lanterns</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/380be78e-4ed7-444a-ab8a-f0c98ca9e90f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/exploring/hoi-an/index.html</link>
+            <guid isPermaLink="false">e97a0e48-557f-4e89-a57d-461620482488</guid>
+            <pubDate>Wed, 07 Oct 2015 15:19:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[San Francisco Bridges]]></title>
             <description><![CDATA[<article><h1>San Francisco Bridges</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8872021-e022-4f07-94ae-e9c1ffc71a9e.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/exploring/562c9d62-9135-4a71-a2ac-3affc8d2f402/index.html</link>
             <guid isPermaLink="false">562c9d62-9135-4a71-a2ac-3affc8d2f402</guid>
             <pubDate>Fri, 28 Aug 2015 09:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is CSS for?]]></title>
-            <description><![CDATA[<h1>What is CSS for?</h1>]]></description>
-            <link>https://thegrid.ai/exploring/what-is-css-for/index.html</link>
-            <guid isPermaLink="false">63ed42a3-e3d5-4db6-9956-8791c57b33dd</guid>
-            <pubDate>Mon, 24 Aug 2015 22:46:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
