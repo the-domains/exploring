@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-19T09:29:38.989Z'
-dateModified: '2015-10-19T09:29:34.214Z'
+datePublished: '2015-10-19T09:30:25.465Z'
+dateModified: '2015-10-19T09:30:20.504Z'
 title: 'Bali, Indonesia'
 sourcePath: _posts/2015-10-19-bali-indonesia.md
 published: true
