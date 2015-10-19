@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Exploring]]></title>
         <description><![CDATA[Exploring]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exploring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 09:27:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 09:27:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exploring/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bali, Indonesia]]></title>
+            <description><![CDATA[<h1>Bali, Indonesia</h1>]]></description>
+            <link>https://thegrid.ai/exploring/bali-indonesia/index.html</link>
+            <guid isPermaLink="false">f5ecbb42-b834-423d-a367-165b833fc0ec</guid>
+            <pubDate>Mon, 19 Oct 2015 09:26:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bali, Indonesia]]></title>
             <description><![CDATA[<article><h1>Bali, Indonesia</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b43e9d26-39f3-4254-9e66-d31fda3f4360.jpg"></article>]]></description>
-            <link>undefinedbali-indonesia/index.html</link>
+            <link>https://thegrid.ai/exploring/bali-indonesia/index.html</link>
             <guid isPermaLink="false">ed0d5dff-59d9-4614-bc26-baa9f90b8efb</guid>
             <pubDate>Mon, 19 Oct 2015 09:26:54 GMT</pubDate>
         </item>
