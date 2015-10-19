@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-19T09:26:54.380Z'
-dateModified: '2015-10-19T09:26:37.733Z'
+datePublished: '2015-10-19T09:26:54.381Z'
+dateModified: '2015-10-19T09:16:19.477Z'
 title: 'Bali, Indonesia'
 authors: []
 publisher:
@@ -21,4 +21,6 @@ url: bali-indonesia/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b43e9d26-39f3-4254-9e66-d31fda3f4360.jpg)
+null
+
+Asked our cab driver to pull off to the side of the road to grab this shot.
