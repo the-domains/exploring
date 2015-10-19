@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Exploring]]></title>
         <description><![CDATA[Exploring]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exploring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 09:18:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 09:24:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exploring/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef64bb9-e204-4dee-8f93-b8b4ba2c9654.jpg">]]></description>
-            <link>undefinedcf314461-15be-4c34-bf91-62f57821eb52/index.html</link>
+            <title><![CDATA[Bali, Indonesia]]></title>
+            <description><![CDATA[<article><h1>Bali, Indonesia</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef64bb9-e204-4dee-8f93-b8b4ba2c9654.jpg"></article>]]></description>
+            <link>https://thegrid.ai/exploring/cf314461-15be-4c34-bf91-62f57821eb52/index.html</link>
             <guid isPermaLink="false">cf314461-15be-4c34-bf91-62f57821eb52</guid>
-            <pubDate>Mon, 19 Oct 2015 09:17:46 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2015 09:23:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
