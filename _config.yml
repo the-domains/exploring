@@ -25,7 +25,7 @@ color:
   brandStrength: 0
   lightness: 1
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose:
   - name: engagement
     item: a2b71f00-6a95-4e98-a68f-70e73393a27e
