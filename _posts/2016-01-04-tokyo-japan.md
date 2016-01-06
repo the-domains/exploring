@@ -2,24 +2,24 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T08:19:55.491Z'
-dateModified: '2016-01-04T08:19:37.229Z'
+datePublished: '2016-01-06T08:11:56.066Z'
+dateModified: '2016-01-05T08:51:22.039Z'
 title: 'Tokyo, Japan'
 author: []
+sourcePath: _posts/2016-01-04-tokyo-japan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-tokyo-japan.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e6ba3f-e914-4c21-9803-957664beca11.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/30dc65cdaca52f9459d5bb08bbe732f628d8bfa2.jpg)
