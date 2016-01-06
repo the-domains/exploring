@@ -6,17 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-20T03:51:49.019Z'
-dateModified: '2015-10-20T03:38:08.551Z'
+datePublished: '2016-01-06T08:13:07.128Z'
+dateModified: '2015-10-20T08:24:32.153Z'
 title: 'Hoi An, Viet Nam'
+sourcePath: _posts/2015-10-20-hoi-an-viet-nam.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-20-hoi-an-viet-nam.md
-published: true
+author: []
 url: hoi-an-viet-nam/index.html
 _type: Article
 
