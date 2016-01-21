@@ -4,14 +4,28 @@
         <description><![CDATA[Exploring]]></description>
         <link>https://thegrid.ai/exploring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 06:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 15:42:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exploring/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cdc9d6-94a9-4b20-91ab-c9dcabd16b22.jpg">]]></description>
+            <link>https://thegrid.ai/exploring/ba3afe1e-c4eb-455a-ba5d-f69f3d8d2d1c/index.html</link>
+            <guid isPermaLink="false">ba3afe1e-c4eb-455a-ba5d-f69f3d8d2d1c</guid>
+            <pubDate>Thu, 21 Jan 2016 15:42:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shanghai, China]]></title>
-            <description><![CDATA[<article><h1>Shanghai, China</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/360989ca5de49c8c8987d43ce018459cddb13d06.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Shanghai, China</h1><p>Park Hyatt Hotel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8300a3ce9cbe85e3403fd73ebe2bca257d75ffde.jpg"></article>]]></description>
+            <link>https://thegrid.ai/exploring/shanghai-china/index.html</link>
+            <guid isPermaLink="false">dc042742-f0c3-4d95-9f55-33a78d9f51bb</guid>
+            <pubDate>Mon, 18 Jan 2016 06:54:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shanghai, China]]></title>
+            <description><![CDATA[<article><h1>Shanghai, China</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04ca402403ce7274d0eef352c79ccc05afaa3a68.jpg"></article>]]></description>
             <link>https://thegrid.ai/exploring/3513e133-06f3-424b-8003-de1931eb70d0/index.html</link>
             <guid isPermaLink="false">3513e133-06f3-424b-8003-de1931eb70d0</guid>
-            <pubDate>Mon, 18 Jan 2016 06:51:34 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 06:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hakone, Japan]]></title>
@@ -61,13 +75,6 @@
             <link>https://thegrid.ai/exploring/ha-long-bay-viet-nam/index.html</link>
             <guid isPermaLink="false">a63e5978-6d38-4004-9542-4b4b43d1c103</guid>
             <pubDate>Mon, 19 Oct 2015 09:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bali, Indonesia]]></title>
-            <description><![CDATA[<article><h1>Bali, Indonesia</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bb47a7b136ee0e5fdec9bb45b47804d37b6557.jpg"></article>]]></description>
-            <link>https://thegrid.ai/exploring/bali-indonesia/index.html</link>
-            <guid isPermaLink="false">ed0d5dff-59d9-4614-bc26-baa9f90b8efb</guid>
-            <pubDate>Mon, 19 Oct 2015 09:30:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
